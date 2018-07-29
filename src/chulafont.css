@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Chula";
+  font-weight: normal;
+  src: url("./font/CHULALONGKORNReg.otf");
+}
+@font-face {
+  font-family: "Chula";
+  font-weight: bold;
+  src: url("./font/CHULALONGKORNBold.otf");
+}
+.cu {
+  font-family: Chula;
+  font-weight: normal;
+}
+.bold {
+  font-weight: bold;
+}
