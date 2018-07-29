@@ -1,7 +1,9 @@
 # Vishnu Camp Ending Screen
 
-Ending screen for Vishnu camp
-With cool flares and button
+Ending screen for Vishnu camp  
+With cool flares and button  
+Commenting system  
+Feel free to fork and modify :D   
 ![Preview](https://preview.ibb.co/iDjCzT/Capture.png)
 
 ## Installation
